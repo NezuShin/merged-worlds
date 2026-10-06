@@ -1,0 +1,22 @@
+{
+  "feature": "merged:seal_cave_floor",
+  "placement": [
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": 0,
+      "y_spread": 0
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": -64
+        },
+        "max_inclusive": {
+          "absolute": -64
+        }
+      }
+    }
+  ]
+}

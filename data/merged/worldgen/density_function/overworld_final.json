@@ -14,7 +14,13 @@
             "argument1": 0.1171875,
             "argument2": {
               "type": "minecraft:mul",
-              "argument1": 1.0,
+              "argument1": {
+                "type": "minecraft:y_clamped_gradient",
+                "from_value": 0.0,
+                "from_y": -64,
+                "to_value": 1.0,
+                "to_y": -40
+              },
               "argument2": {
                 "type": "minecraft:add",
                 "argument1": -0.1171875,

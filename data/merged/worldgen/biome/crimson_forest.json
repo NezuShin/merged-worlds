@@ -49,6 +49,8 @@
   },
   "features": [
     [
+      "merged:seal_cave_floor_0",
+      "merged:seal_cave_floor_8",
       "merged:drain_nether_lava_0_155",
       "merged:drain_nether_lava_8_155",
       "merged:drain_nether_lava_0_146",
