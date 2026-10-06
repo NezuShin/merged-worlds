@@ -1,0 +1,136 @@
+{
+  "attributes": {
+    "minecraft:audio/ambient_sounds": {
+      "additions": {
+        "sound": "minecraft:ambient.basalt_deltas.additions",
+        "tick_chance": 0.0111
+      },
+      "loop": "minecraft:ambient.basalt_deltas.loop",
+      "mood": {
+        "block_search_extent": 8,
+        "offset": 2.0,
+        "sound": "minecraft:ambient.basalt_deltas.mood",
+        "tick_delay": 6000
+      }
+    },
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.nether.basalt_deltas"
+      }
+    },
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:white_ash"
+        },
+        "probability": 0.118093334
+      }
+    ],
+    "minecraft:visual/fog_color": "#685f70",
+    "minecraft:gameplay/piglins_zombify": false,
+    "minecraft:gameplay/water_evaporates": true,
+    "minecraft:gameplay/respawn_anchor_works": true,
+    "minecraft:gameplay/snow_golem_melts": true,
+    "minecraft:gameplay/bed_rule": {
+      "can_set_spawn": "never",
+      "can_sleep": "never",
+      "explodes": true
+    },
+    "minecraft:visual/sky_light_factor": 0.0,
+    "minecraft:visual/fog_start_distance": 10.0,
+    "minecraft:visual/fog_end_distance": 96.0
+  },
+  "carvers": "merged:nether_cave",
+  "downfall": 0.0,
+  "effects": {
+    "water_color": "#3f76e4"
+  },
+  "features": [
+    [
+      "merged:drain_nether_lava_0_155",
+      "merged:drain_nether_lava_8_155",
+      "merged:drain_nether_lava_0_146",
+      "merged:drain_nether_lava_8_146",
+      "merged:drain_nether_lava_0_137",
+      "merged:drain_nether_lava_8_137",
+      "merged:drain_nether_lava_0_128",
+      "merged:drain_nether_lava_8_128",
+      "merged:drain_nether_lava_0_119",
+      "merged:drain_nether_lava_8_119",
+      "merged:drain_nether_lava_0_110",
+      "merged:drain_nether_lava_8_110",
+      "merged:drain_nether_lava_0_101",
+      "merged:drain_nether_lava_8_101",
+      "merged:drain_nether_lava_0_92",
+      "merged:drain_nether_lava_8_92",
+      "merged:drain_nether_lava_0_83",
+      "merged:drain_nether_lava_8_83",
+      "merged:drain_nether_lava_0_74",
+      "merged:drain_nether_lava_8_74",
+      "merged:drain_nether_lava_0_67",
+      "merged:drain_nether_lava_8_67"
+    ],
+    [],
+    [],
+    [],
+    [
+      "minecraft:delta",
+      "minecraft:small_basalt_columns",
+      "minecraft:large_basalt_columns"
+    ],
+    [],
+    [],
+    [
+      "merged:basalt_blobs",
+      "merged:blackstone_blobs",
+      "merged:spring_delta",
+      "merged:patch_fire",
+      "merged:patch_soul_fire",
+      "merged:glowstone_extra",
+      "merged:glowstone",
+      "merged:brown_mushroom_nether",
+      "merged:red_mushroom_nether",
+      "merged:ore_magma",
+      "merged:spring_closed_double",
+      "merged:ore_gold_deltas",
+      "merged:ore_quartz_deltas",
+      "merged:ore_ancient_debris_large",
+      "merged:ore_debris_small"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:strider",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 60
+      }
+    ],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:ghast",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 40
+      },
+      {
+        "type": "minecraft:magma_cube",
+        "maxCount": 5,
+        "minCount": 2,
+        "weight": 100
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 2.0
+}
