@@ -1,7 +1,9 @@
 {
-  "type": "minecraft:y_clamped_gradient",
-  "from_y": -2032,
-  "to_y": 2031,
+  "type": "minecraft:gradient",
+  "axis": "y",
+  "tiling": "clamp_to_edge",
+  "from_coordinate": -2032,
   "from_value": -2032.0,
+  "to_coordinate": 2031,
   "to_value": 2031.0
 }

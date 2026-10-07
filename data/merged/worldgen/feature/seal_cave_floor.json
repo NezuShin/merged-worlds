@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:disk",
+  "half_height": 2,
+  "radius": 8,
+  "state_provider": {
+    "id": "minecraft:netherrack"
+  },
+  "target": {
+    "type": "minecraft:matching_blocks",
+    "blocks": [
+      "minecraft:air",
+      "minecraft:cave_air",
+      "minecraft:lava"
+    ]
+  }
+}

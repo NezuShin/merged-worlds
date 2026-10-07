@@ -2,9 +2,10 @@
   "feature": "merged:seal_cave_floor",
   "placement": [
     {
-      "type": "minecraft:random_offset",
-      "xz_spread": 8,
-      "y_spread": 0
+      "type": "minecraft:offset",
+      "x": 8,
+      "y": 0,
+      "z": 8
     },
     {
       "type": "minecraft:height_range",

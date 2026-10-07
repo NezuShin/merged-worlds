@@ -104011,7 +104011,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -104038,7 +104038,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -108223,7 +108223,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108250,7 +108250,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108277,7 +108277,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -108304,7 +108304,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -108331,7 +108331,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108358,7 +108358,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108385,7 +108385,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -108412,7 +108412,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -108493,7 +108493,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108520,7 +108520,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108547,7 +108547,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -108574,7 +108574,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -108601,7 +108601,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108628,7 +108628,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -108655,7 +108655,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -108682,7 +108682,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -123019,7 +123019,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -123046,7 +123046,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -123127,7 +123127,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -123154,7 +123154,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -123181,7 +123181,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -123208,7 +123208,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -123289,7 +123289,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123316,7 +123316,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123343,7 +123343,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -123370,7 +123370,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -123397,7 +123397,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123424,7 +123424,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123451,7 +123451,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123478,7 +123478,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123505,7 +123505,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -123532,7 +123532,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -123613,7 +123613,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -123640,7 +123640,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -140515,7 +140515,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -140542,7 +140542,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -140677,7 +140677,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -140704,7 +140704,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -140785,7 +140785,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -140812,7 +140812,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -140893,7 +140893,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -140920,7 +140920,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -141001,7 +141001,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -141028,7 +141028,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -141055,7 +141055,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -141082,7 +141082,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -141163,7 +141163,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -141190,7 +141190,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -157579,7 +157579,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -157606,7 +157606,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -157687,7 +157687,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -157714,7 +157714,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -157795,7 +157795,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -157822,7 +157822,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -157903,7 +157903,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -157930,7 +157930,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -158065,7 +158065,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -158092,7 +158092,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -172915,7 +172915,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -172942,7 +172942,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173077,7 +173077,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -173104,7 +173104,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -173185,7 +173185,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173212,7 +173212,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173293,7 +173293,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -173320,7 +173320,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -173401,7 +173401,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173428,7 +173428,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173455,7 +173455,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173482,7 +173482,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173563,7 +173563,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -173590,7 +173590,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -190951,7 +190951,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -190978,7 +190978,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -191059,7 +191059,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -191086,7 +191086,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -191113,7 +191113,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -191140,7 +191140,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -191221,7 +191221,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191248,7 +191248,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191275,7 +191275,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -191302,7 +191302,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               0.03,
@@ -191329,7 +191329,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191356,7 +191356,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191383,7 +191383,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191410,7 +191410,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191437,7 +191437,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -191464,7 +191464,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.11,
@@ -191545,7 +191545,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -191572,7 +191572,7 @@
           }
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "minecraft:dappled_forest",
           "parameters": {
             "continentalness": [
               -0.19,
@@ -204993,6 +204993,36 @@
             "weirdness": [
               -1.0,
               1.0
+            ]
+          }
+        },
+        {
+          "biome": "minecraft:sulfur_caves",
+          "parameters": {
+            "continentalness": [
+              -0.19,
+              0.55
+            ],
+            "depth": [
+              0.2,
+              0.9
+            ],
+            "erosion": [
+              0.45,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0,
+              1.0
+            ],
+            "weirdness": [
+              -1.1,
+              -0.85
             ]
           }
         },
