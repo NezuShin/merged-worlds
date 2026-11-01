@@ -89,6 +89,17 @@
       "can_sleep": "never",
       "destroy_on_use": true
     },
+    "minecraft:gameplay/straw_bed_rule": {
+      "can_set_spawn": "never",
+      "can_sleep": "never",
+      "destroy_on_use": true
+    },
+    "minecraft:gameplay/can_start_raid": false,
+    "minecraft:visual/ambient_light_color": "#302821",
+    "minecraft:visual/sky_light_color": "#7a7aff",
+    "minecraft:visual/default_dripstone_particle": {
+      "type": "minecraft:dripping_dripstone_lava"
+    },
     "minecraft:visual/sky_light_factor": 0.0,
     "minecraft:visual/fog_start_distance": 10.0,
     "minecraft:visual/fog_end_distance": 96.0
